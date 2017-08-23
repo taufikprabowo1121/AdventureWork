@@ -1,0 +1,10 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\AdventureWorks\AdventureWorks\bin\Debug\EntityFramework.dll
+c:\users\geeksfarm\documents\visual studio 2015\Projects\AdventureWorks\AdventureWorks\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\geeksfarm\documents\visual studio 2015\Projects\AdventureWorks\AdventureWorks\bin\Debug\EntityFramework.xml
+c:\users\geeksfarm\documents\visual studio 2015\Projects\AdventureWorks\AdventureWorks\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\geeksfarm\documents\visual studio 2015\Projects\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.pdb
